@@ -1,0 +1,50 @@
+.count {
+  display: flex;
+  justify-content: center;
+}
+
+ span {
+   line-height: 50px;
+   text-align: right;
+   background-color: black;
+   color: white;
+   width: 280px;
+   height: 50px;
+   font-size: 30px;
+}
+
+
+
+button {
+   width: 70px;
+   height: 50px;
+}
+
+.paragragh5 button {
+   width: 140px;
+}
+
+.paragragh1 {
+   display: flex;
+   justify-content: center;
+}
+
+.paragragh2 {
+   display: flex;
+   justify-content: center;
+}
+
+.paragragh3 {
+   display: flex;
+   justify-content: center;
+}
+
+.paragragh4 {
+   display: flex;
+   justify-content: center;
+}
+
+.paragragh5 {
+   display: flex;
+   justify-content: center;
+}
